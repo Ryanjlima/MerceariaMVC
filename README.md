@@ -103,8 +103,8 @@ Consultar detalhes de cada pedido efetuado;
 
 Cancelar ou excluir registros de vendas.
 
-👨‍🏫 Professor
+👨‍🏫 Professor:
 Wallace Oliveira
 
-👨‍💻 Autor
+👨‍💻 Autor :
 Ryan Josias
